@@ -2,9 +2,6 @@
 ## _Using the minimax algorithm (ALPHA BETA PRUNING)_ 
 
 
-## Check out my youtube channel for more: [AUCTUX](https://www.youtube.com/c/Auctux)
- chess game and chess AI using the Minimax algorithm.
-
 #### this code need a lot of optimization
 
 ## Features
